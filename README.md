@@ -1,2 +1,2 @@
 # hello-world
-what the fuck is going on?
+what the hell is going on? That's what i'm trying to figure out.
